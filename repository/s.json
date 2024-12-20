@@ -4467,15 +4467,15 @@
 			]
 		},
 		{
-		"name": "SublimeClaude",
-			"details": "https://github.com/floor/SublimeClaude",
-			"releases": [
-					{
-							"sublime_text": ">=3000",
-							"tags": true
-					}
-			]
-	},
+	    "name": "SublimeClaude",
+	    "details": "https://github.com/floor/SublimeClaude",
+	    "releases": [
+	        {
+	            "sublime_text": ">=3000",
+	            "tags": true
+	        }
+	    ]
+		},
 		{
 			"details": "https://github.com/rjcoelho/sublime-clearcase",
 			"releases": [
