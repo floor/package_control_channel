@@ -4468,7 +4468,7 @@
 		},
 		{
 			"name": "SublimeClaude",
-			"details": "https://github.com/floor/SublimeClaude",
+			"details": "https://github.com/floor/claude-sublime",
 			"releases": [
 					{
 							"sublime_text": ">=3000",
